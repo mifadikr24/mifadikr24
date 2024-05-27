@@ -2,9 +2,7 @@
 - 👀 I’m interested in robotic
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on robot program
-- 📫 How to reach me ...
-- 😄 Pronouns: -
-- ⚡ Fun fact: Kind
+- 📫 How to reach me
 
 <!---
 mifadikr24/mifadikr24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
